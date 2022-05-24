@@ -11,3 +11,6 @@ Document= https://jhooq.com/ci-cd-jenkins-kubernetes/
 Document = https://jhooq.com/kubespray-12-steps-for-installing-a-production-ready-kubernetes-cluster/
 
 ----------------------
+
+
+https://github.com/YSureshN/WEZVACICD/blob/master/jenkinsfile
