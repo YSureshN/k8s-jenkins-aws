@@ -14,3 +14,6 @@ Document = https://jhooq.com/kubespray-12-steps-for-installing-a-production-read
 
 
 https://github.com/YSureshN/WEZVACICD/blob/master/jenkinsfile
+
+
+https://github.com/YSureshN/simple-java-maven-app/blob/master/jenkins/Jenkinsfile
