@@ -4,3 +4,10 @@ Document = https://jhooq.com/aws-kubernetes-jenkins-pipeline/
 
 --------------------------------
 
+Set up complete CI/CD Jenkins pipeline for kubernetes Video= https://www.youtube.com/watch?v=TPMUxsRI1OA
+
+Document= https://jhooq.com/ci-cd-jenkins-kubernetes/
+
+Document = https://jhooq.com/kubespray-12-steps-for-installing-a-production-ready-kubernetes-cluster/
+
+----------------------
