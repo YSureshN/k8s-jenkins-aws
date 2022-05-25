@@ -17,3 +17,10 @@ https://github.com/YSureshN/WEZVACICD/blob/master/jenkinsfile
 
 
 https://github.com/YSureshN/simple-java-maven-app/blob/master/jenkins/Jenkinsfile
+
+
+-------------
+
+https://jhooq.com/kubernetes-liveness-readiness-startup-probes/
+
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
