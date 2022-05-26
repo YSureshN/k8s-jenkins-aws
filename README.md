@@ -2,6 +2,10 @@ How to set up AWS Kubernetes Jenkins pipeline Video= https://www.youtube.com/wat
 Document = https://github.com/rahulwagh/k8s-jenkins-aws
 Document = https://jhooq.com/aws-kubernetes-jenkins-pipeline/
 
+Jenkins Agent= https://github.com/ravdy/DevOps/blob/master/jenkins/Jenkins_Master_Slave_configuration.md
+
+Jenkins Agent Video= https://www.youtube.com/watch?v=SBVVEQKO7eg
+
 --------------------------------
 
 Set up complete CI/CD Jenkins pipeline for kubernetes Video= https://www.youtube.com/watch?v=TPMUxsRI1OA
